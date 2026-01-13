@@ -11,6 +11,7 @@ environment and the reinforcement learning principles behind solving it.
 - :ballot_box_with_check: What is the reward function, and what behavior does it incentivize?
 - :ballot_box_with_check: When does an episode terminate, and why?
 - :ballot_box_with_check: Why is CartPole considered an “easy” benchmark?
+- :ballot_box_with_check: Does the agent receive a reward for each action per step?
 - [ ] What policy is implicitly learned in a typical solution?
 - [ ] Where exactly does learning happen in the code I copied?
 - [ ] Why does random exploration fail beyond a point?
