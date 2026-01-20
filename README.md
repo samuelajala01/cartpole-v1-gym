@@ -16,4 +16,4 @@ environment and the reinforcement learning principles behind solving it.
 - [ ] Where exactly does learning happen in the code I copied?
 - [ ] Why does random exploration fail beyond a point?
 - [ ] Why does CartPole not require long-horizon planning?
-- [ ] What assumptions does CartPole make that do NOT hold for real robots?
+- :ballot_box_with_check: What assumptions does CartPole make that do NOT hold for real robots?
